@@ -1,0 +1,11 @@
+# YouTube queue. One entry per line:
+#   a video link, a playlist link, or  search: song name
+#search: Daft Punk Get Lucky official video
+#search: Queen Bohemian Rhapsody official video
+#search: Dua Lipa Levitating official video
+# https://www.youtube.com/watch?v=VIDEO_ID
+# https://www.youtube.com/playlist?list=PLAYLIST_ID
+https://www.youtube.com/watch?v=N67O8_gVFCI
+https://www.youtube.com/shorts/1mGHyronwq4
+https://www.youtube.com/shorts/aqqZ0Yj8p3o
+https://www.youtube.com/shorts/7skAwBJSDBM

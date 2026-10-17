@@ -1,0 +1,10 @@
+mediapipe==0.10.35     # hand tracking (brings its own OpenCV)
+numpy<2
+pillow                 # shows the camera in the app window
+
+# YouTube mode
+selenium>=4.15         # drives Chrome/Edge (needs the browser installed, driver is automatic)
+yt-dlp                 # turns "search: ..." lines into videos
+
+# Spotify mode (only if you want the Web API instead of the desktop app)
+spotipy>=2.23
